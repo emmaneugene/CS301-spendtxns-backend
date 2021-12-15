@@ -1,0 +1,3 @@
+﻿CardType,MinSpend,MaxSpend,ForeignSpend,Multiplier,StartDate,EndDate,Description,MerchantName,PointsTypeId
+scis_shopping,50,1000000,FALSE,1,2021-11-1,2021-11-30,1-for-1 Shopping points with online purchases over $50 at Shopee,Shopee,1
+scis_freedom,10,50,FALSE,0.10,2021-11-1,2021-12-31,10% cashback on all GrabFood Deliveries above $20 from November till the end of the year ,GrabFood,3
